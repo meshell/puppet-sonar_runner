@@ -1,6 +1,6 @@
 # Class: sonar_runner
 #
-# This module manages sonar_runner
+# This module manages sonar-runner
 #
 # Parameters: none
 #
