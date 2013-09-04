@@ -1,13 +1,13 @@
 {
-  "name": "meshell-sonar_runner",
+  "name": "puppet-sonar_runner",
   "version": "0.1.0",
-  "summary": "",
+  "summary": "A module to install sonar-runner",
   "author": "Michel Estermann",
   "description": "",
   "dependencies": [],
   "types": [],
   "checksums": {},
-  "source": "",
-  "project_page": "",
+  "source": "https://github.com/meshell/puppet-sonar-runner",
+  "project_page": "https://github.com/meshell/puppet-sonar-runner",
   "license": "Apache License, Version 2.0"
 }

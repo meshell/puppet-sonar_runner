@@ -4,7 +4,6 @@ rvm:
   - 1.9.3
 
 script:
-  - "rake lint"
   - "rake spec SPEC_OPTS='--format documentation'"
   
 env:
